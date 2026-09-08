@@ -1,3 +1,5 @@
+# Adapted from https://github.com/jfnavarro/st_pipeline and https://github.com/MingyuYang-Yale/DBiT-seq
+
 #!/bin/bash
 sample=sample_id
 FW=path/to/rawdata/sample_bar_umi.fastq.gz
